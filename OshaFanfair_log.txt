@@ -1,0 +1,13 @@
+Osha Fanfair - Week 5 Final Practical Exam
+Printing buildings iteratively:
+House Building - 4 rooms, Door - Width: 32, Color: Red, Kitchen - Style: Modern, Appliance Brand: BrandA
+House Building - 3 rooms, Door - Width: 30, Color: Blue, Kitchen - Style: Contemporary, Appliance Brand: BrandB
+House Building - 5 rooms, Door - Width: 36, Color: Green, Kitchen - Style: Country, Appliance Brand: BrandC
+House Building - 6 rooms, Door - Width: 34, Color: Yellow, Kitchen - Style: Chef's, Appliance Brand: BrandD
+House Building - 4 rooms, Door - Width: 32, Color: White, Kitchen - Style: Modern, Appliance Brand: BrandE
+Printing buildings recursively:
+House Building - 4 rooms, Door - Width: 32, Color: Red, Kitchen - Style: Modern, Appliance Brand: BrandA
+House Building - 3 rooms, Door - Width: 30, Color: Blue, Kitchen - Style: Contemporary, Appliance Brand: BrandB
+House Building - 5 rooms, Door - Width: 36, Color: Green, Kitchen - Style: Country, Appliance Brand: BrandC
+House Building - 6 rooms, Door - Width: 34, Color: Yellow, Kitchen - Style: Chef's, Appliance Brand: BrandD
+House Building - 4 rooms, Door - Width: 32, Color: White, Kitchen - Style: Modern, Appliance Brand: BrandE
